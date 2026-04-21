@@ -24,3 +24,4 @@ jobs:
 
       - name: Push to Docker Hub
         run: docker push vinturiphanisampath/devops-app
+        # trigger pipeline
